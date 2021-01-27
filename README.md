@@ -1,6 +1,7 @@
 # JavaScript [Iterators][] and [AsyncIterators][] for all!
 
 [![Build Status](https://travis-ci.org/leebyron/iterall.svg?branch=master)](https://travis-ci.org/leebyron/iterall) [![Coverage Status](https://coveralls.io/repos/github/leebyron/iterall/badge.svg?branch=master)](https://coveralls.io/github/leebyron/iterall?branch=master) ![710 bytes minified and gzipped](https://img.shields.io/badge/min%20gzip%20size-757%20B-blue.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fiterall.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fiterall?ref=badge_shield)
 
 `iterall` provides a few crucial utilities for implementing and working with
 [Iterables][iterators], [Async Iterables][asynciterators] and
@@ -836,3 +837,7 @@ these.
 [typescript]: http://www.typescriptlang.org/
 
 [immutable.js]: http://facebook.github.io/immutable-js/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fiterall.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fiterall?ref=badge_large)
